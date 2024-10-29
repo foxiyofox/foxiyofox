@@ -1,5 +1,5 @@
 <div>
-      <img align="end" height="300"  src=https://github.com/foxiyofox/foxiyofox/blob/master/foufou_banner.jpg
+      <img align="end" height="220"  src=https://github.com/foxiyofox/foxiyofox/blob/master/foufou_banner.jpg
 </div>
 
 
