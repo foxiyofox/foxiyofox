@@ -1,3 +1,8 @@
+<div>
+      <img align="end" height="300"  src=https://github.com/foxiyofox/foxiyofox/blob/master/foufou_banner.jpg
+</div>
+
+
 ## ola eu sou o foxiy
 
 🦊 por agora só estou criando kernels
