@@ -3,9 +3,7 @@
 </div>
 
 
-
 https://github.com/user-attachments/assets/d1c33c28-acc5-41bc-8775-f3452cacd14c
-https://www.youtube.com/watch?v=ekr49qgCA8M
 
 
 ## i am foxiy ༼ つ ◕_◕ ༽つ
