@@ -1,11 +1,11 @@
 <div>
-      <img align="end" height="220"  src=https://github.com/foxiyofox/foxiyofox/blob/master/foufou_banner.jpg
+      <img src='https://github.com/foxiyofox/foxiyofox/blob/master/foufou_banner.jpg'>
 </div>
 
 
-## ola eu sou o foxiy
+## i am foxiy (¬‿¬)
 
-🦊 por agora só estou criando kernels
+🦊 for now I'm just creating kernels
 
 
 
