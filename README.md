@@ -3,7 +3,12 @@
 </div>
 
 
-## i am foxiy (¬‿¬)
+
+https://github.com/user-attachments/assets/d1c33c28-acc5-41bc-8775-f3452cacd14c
+
+
+
+## i am foxiy ༼ つ ◕_◕ ༽つ
 
 🦊 for now I'm just creating kernels
 
