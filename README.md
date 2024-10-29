@@ -3,7 +3,13 @@
 </div>
 
 
-https://github.com/user-attachments/assets/d1c33c28-acc5-41bc-8775-f3452cacd14c
+
+<div>
+      
+https://github.com/user-attachments/assets/4f41844f-c7ed-4c07-8123-2fdc59067e1b
+
+</div>
+
 
 
 ## i am foxiy ༼ つ ◕_◕ ༽つ
