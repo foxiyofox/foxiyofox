@@ -6,13 +6,13 @@
 
 <div>
       
-https://github.com/user-attachments/assets/4f41844f-c7ed-4c07-8123-2fdc59067e1b
+
 
 </div>
 
 
-
-## i am foxiy ༼ つ ◕_◕ ༽つ
+i am foxiy ༼ つ ◕_◕ ༽つ
+=======================
 
 🦊 for now I'm just creating kernels
 
